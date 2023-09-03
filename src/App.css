@@ -1,9 +1,12 @@
 .App {
   text-align: center;
+  background-color: #282c34;
+  color: aliceblue;
 }
 
 .App-logo {
   height: 40vmin;
+  border-radius: 10px;
   pointer-events: none;
 }
 
